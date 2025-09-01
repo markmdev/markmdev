@@ -1,11 +1,11 @@
 ### Intro
 
-Hi everyone! My name is Mark and I'm a **backend-focused Fullstack developer**. I live in **San Jose, CA** and I'm currently pursuing a BS in Computer Science at SNHU's online program (graduating Dec 2026). I got my first computer when I was 6 and not long after that I started exploring how things actually work and tried to create my first computer programs. Coding is what I genuinely enjoy, and I recently started building projects in public. A quick fact about me: I love traveling and I've been to 25 countries! Let's connect on [LinkedIn!](https://www.linkedin.com/in/markmdev/)
+Hi everyone! My name is Mark and I'm a **backend-focused Fullstack developer**. I live in **San Jose, CA** and I'm currently pursuing a BS in Computer Science at Southern New Hampshire University (expected Dec 2026). Actively building real-world projects and available for internships or entry-level roles now. I got my first computer when I was 6 and not long after that I started exploring how things actually work and tried to create my first computer programs. Coding is what I genuinely enjoy, and I recently started building projects in public. A quick fact about me: I love traveling and I've been to 25 countries! Let's connect on [LinkedIn!](https://www.linkedin.com/in/markmdev/)
 
 ### My Projects
 
-The **last project** I finished is [Lingput](https://github.com/mark-mdev/lingput) - a web application that helps people learn a new language using short, AI-generated stories in which the vocabulary is adapted to your current level, making it as effective as possible for you. I enjoyed working on this project because I learned and strengthened many skills while working on it: such as **job queue management**, **dependency injection**, **caching**, **containerization**, and **clean architecture**. I also built a **CI/CD pipeline** that allowed me to quickly build, test, and deploy the app. The project is currently deployed, so you can try it out!  
-**Demo:** [https://lingput.dev/](https://lingput.dev/)
+The **last project** I finished is [Lingput](https://github.com/mark-mdev/lingput) - **Live Demo:** [https://lingput.dev/](https://lingput.dev/)  
+A web app that helps people learn a new language through AI-generated short stories with vocabulary tailored to the learner’s level. I enjoyed working on this project because I learned and strengthened many skills while working on it: such as **job queue management**, **dependency injection**, **caching**, **containerization**, and **clean architecture**. I also built a **CI/CD pipeline** to automate testing and deployment, which allowed me to iterate and ship updates quickly. The project is currently deployed, so you can try it out!
 
 ### My Tech Stack:
 
@@ -89,13 +89,13 @@ The **last project** I finished is [Lingput](https://github.com/mark-mdev/lingpu
   </tr>
 </table>
 
-Although I have strong frontend skills and can build responsive, accessible, and optimized UIs using React/Next.js, my main interest and focus lie in **backend systems**. I love creating scalable apps and deepening my knowledge of API design, database design & optimization, caching strategies, **scalability & concurrency**, CI/CD, system design, etc. Currently exploring adding a backend-focused language (**Java** or **Go**) to my stack for upcoming projects.
+I have strong frontend skills and can build responsive, accessible, and optimized UIs using React/Next.js, but my main focus is **backend systems**. I enjoy building scalable applications and deepening my knowledge in areas like **API design, database optimization, caching strategies, scalability & concurrency, CI/CD, and system design**. I’m also expanding my stack with backend-focused languages such as **Java** or **Go** for upcoming projects.
 
 ---
 
 ### My Articles
 
-I share my learnings through technical writing. You can read my first article on [Medium](https://medium.com/@markmdev/stop-writing-brittle-if-else-error-handlers-in-node-js-db29c0d3c64c). In this article I describe how I refactored my **error handling** in [Lingput](#my-projects). I'm currently writing a few more articles about my [last project](#my-projects), focusing on what I learned while building it and the problems I encountered.
+I share my learnings through technical writing. My first article, [A Clean Way to Refactor Error Handling in Node.js](https://medium.com/@markmdev/stop-writing-brittle-if-else-error-handlers-in-node-js-db29c0d3c64c), shows how I refactored **error handling** in [Lingput](#my-projects). I plan to publish more articles about what I learned while building [Lingput](#my-projects), focusing on challenges I faced and how I solved them.
 
 ---
 
