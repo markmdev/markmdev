@@ -9,82 +9,103 @@ A web app that helps people learn a new language through AI-generated short stor
 
 ### My Tech Stack:
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="55">
-      <img src="./docs/TypeScript.png" alt="TypeScript" title="TypeScript" width="27"/><br/><sub>TypeScript</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/JavaScript.png" alt="JavaScript" title="JavaScript" width="27"/><br/><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Node.js.png" alt="Node.js" title="Node.js" width="27"/><br/><sub>Node.js</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Express.png" alt="Express" title="Express" width="27"/><br/><sub>Express</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Next.js.png" alt="Next.js" title="Next.js" width="27"/><br/><sub>Next.js</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/React.png" alt="React" title="React" width="27"/><br/><sub>React</sub>
+    <td align="right" valign="middle" width="160"><b>Languages</b></td>
+    <td align="left">
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/TypeScript.png" alt="TypeScript" title="TypeScript" width="27"/><br/><sub>TypeScript</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/JavaScript.png" alt="JavaScript" title="JavaScript" width="27"/><br/><sub>JavaScript</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Python.png" alt="Python" title="Python" width="27"/><br/><sub>Python</sub>
+      </span>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="55">
-      <img src="./docs/PostgresSQL.png" alt="PostgreSQL" title="PostgreSQL" width="27"/><br/><sub>PostgreSQL</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/prisma.svg" alt="Prisma" title="Prisma" width="27"/><br/><sub>Prisma</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Redis.png" alt="Redis" title="Redis" width="27"/><br/><sub>Redis</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Tailwind%20CSS.png" alt="Tailwind CSS" title="Tailwind CSS" width="27"/><br/><sub>Tailwind CSS</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Jest.png" alt="Jest" title="Jest" width="27"/><br/><sub>Jest</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Docker.png" alt="Docker" title="Docker" width="27"/><br/><sub>Docker</sub>
+    <td align="right" valign="middle"><b>Frameworks & Libraries</b></td>
+    <td align="left">
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Node.js.png" alt="Node.js" title="Node.js" width="27"/><br/><sub>Node.js</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Express.png" alt="Express" title="Express" width="27"/><br/><sub>Express</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Next.js.png" alt="Next.js" title="Next.js" width="27"/><br/><sub>Next.js</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/React.png" alt="React" title="React" width="27"/><br/><sub>React</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Socket.io.png" alt="Socket.io" title="Socket.io" width="27"/><br/><sub>Socket.io</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Jest.png" alt="Jest" title="Jest" width="27"/><br/><sub>Jest</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Vite.js.png" alt="Vite.js" title="Vite.js" width="27"/><br/><sub>Vite.js</sub>
+      </span>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="55">
-      <img src="./docs/bullmq-logo.png" alt="BullMQ" title="BullMQ" width="27"/><br/><sub>BullMQ</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/AWS.png" alt="AWS" title="AWS" width="27"/><br/><sub>AWS</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Digital%20Ocean.png" alt="Digital Ocean" title="Digital Ocean" width="27"/><br/><sub>Digital Ocean</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Git.png" alt="Git" title="Git" width="27"/><br/><sub>Git</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/GitHub%20Actions.png" alt="GitHub Actions" title="GitHub Actions" width="27"/><br/><sub>GitHub Actions</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/GitHub.png" alt="GitHub" title="GitHub" width="27"/><br/><sub>GitHub</sub>
+    <td align="right" valign="middle"><b>Databases & Tools</b></td>
+    <td align="left">
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/PostgresSQL.png" alt="PostgreSQL" title="PostgreSQL" width="27"/><br/><sub>PostgreSQL</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/prisma.svg" alt="Prisma" title="Prisma" width="27"/><br/><sub>Prisma</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Redis.png" alt="Redis" title="Redis" width="27"/><br/><sub>Redis</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/bullmq-logo.png" alt="BullMQ" title="BullMQ" width="27"/><br/><sub>BullMQ</sub>
+      </span>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="55">
-      <img src="./docs/NGINX.png" alt="NGINX" title="NGINX" width="27"/><br/><sub>NGINX</sub>
+    <td align="right" valign="middle"><b>Infra & DevOps</b></td>
+    <td align="left">
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Docker.png" alt="Docker" title="Docker" width="27"/><br/><sub>Docker</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/NGINX.png" alt="NGINX" title="NGINX" width="27"/><br/><sub>NGINX</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/AWS.png" alt="AWS" title="AWS" width="27"/><br/><sub>AWS</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:82px;">
+        <img src="./docs/Digital%20Ocean.png" alt="Digital Ocean" title="Digital Ocean" width="27"/><br/><sub>Digital&nbsp;Ocean</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:90px;">
+        <img src="./docs/GitHub%20Actions.png" alt="GitHub Actions" title="GitHub Actions" width="27"/><br/><sub>GitHub&nbsp;Actions</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/GitHub.png" alt="GitHub" title="GitHub" width="27"/><br/><sub>GitHub</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/NPM.png" alt="NPM" title="NPM" width="27"/><br/><sub>NPM</sub>
+      </span>
+      <span style="display:inline-block;text-align:center;width:70px;">
+        <img src="./docs/Git.png" alt="Git" title="Git" width="27"/><br/><sub>Git</sub>
+      </span>
     </td>
-    <td align="center" width="55">
-      <img src="./docs/NPM.png" alt="NPM" title="NPM" width="27"/><br/><sub>NPM</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Python.png" alt="Python" title="Python" width="27"/><br/><sub>Python</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Socket.io.png" alt="Socket.io" title="Socket.io" width="27"/><br/><sub>Socket.io</sub>
-    </td>
-    <td align="center" width="55">
-      <img src="./docs/Vite.js.png" alt="Vite.js" title="Vite.js" width="27"/><br/><sub>Vite.js</sub>
+  </tr>
+
+  <tr>
+    <td align="right" valign="middle"><b>UI</b></td>
+    <td align="left">
+      <span style="display:inline-block;text-align:center;width:90px;">
+        <img src="./docs/Tailwind%20CSS.png" alt="Tailwind CSS" title="Tailwind CSS" width="27"/><br/><sub>Tailwind&nbsp;CSS</sub>
+      </span>
     </td>
   </tr>
 </table>
