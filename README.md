@@ -4,7 +4,7 @@ Hi everyone! My name is Mark and I'm a **backend-focused Fullstack developer**. 
 
 ### My Projects
 
-The **last project** I finished is [Lingput](https://github.com/mark-mdev/lingput) - **Live Demo:** [https://lingput.dev/](https://lingput.dev/)  
+The **last project** I finished is [Lingput](https://github.com/markmdev/lingput) - **Live Demo:** [https://lingput.dev/](https://lingput.dev/)  
 A web app that helps people learn a new language through AI-generated short stories with vocabulary tailored to the learner’s level. I enjoyed working on this project because I learned and strengthened many skills while working on it: such as **job queue management**, **dependency injection**, **caching**, **containerization**, and **clean architecture**. I also built a **CI/CD pipeline** to automate testing and deployment, which allowed me to iterate and ship updates quickly. The project is currently deployed, so you can try it out!
 
 ### My Tech Stack:
@@ -80,7 +80,7 @@ A web app that helps people learn a new language through AI-generated short stor
   </tr>
 </table>
 
-I have strong frontend skills and can build responsive, accessible, and optimized UIs using React/Next.js, but my main focus is **backend systems**. I enjoy building scalable applications and deepening my knowledge in areas like **API design, database optimization, caching strategies, scalability & concurrency, CI/CD, and system design**. I’m also expanding my stack with backend-focused languages such as **Java** or **Go** for upcoming projects.
+I have strong frontend skills and can build responsive, accessible, and optimized UIs using React/Next.js, but my main focus is **backend systems**. I enjoy building scalable applications and deepening my knowledge in areas like **API design, database optimization, caching strategies, scalability & concurrency, CI/CD, and system design**. I’m also expanding my stack by adding **Java** as a backend-focused language for upcoming projects.
 
 ---
 
