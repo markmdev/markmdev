@@ -1,11 +1,19 @@
 ### Intro
 
-Hi everyone! My name is Mark and I'm a **backend-focused Fullstack developer**. I live in **San Jose, CA** and I'm currently pursuing a BS in Computer Science at Southern New Hampshire University (expected Dec 2026). Actively building real-world projects and available for internships or entry-level roles now. I got my first computer when I was 6 and not long after that I started exploring how things actually work and tried to create my first computer programs. Coding is what I genuinely enjoy, and I recently started building projects in public. A quick fact about me: I love traveling and I've been to 25 countries! Let's connect on [LinkedIn!](https://www.linkedin.com/in/markmdev/)
+Hi everyone! My name is Mark and I'm a **backend-focused Fullstack developer** based in **San Jose, CA**, who build production-ready systems. Currently deployed: [Lingput.dev](https://github.com/markmdev/lingput) - a scalable language learning platform with async job processing (BullMQ + Redis), caching, and containerized layered architecture + Dependency Injection.
+
+I love building real-world projects, especially backend systems that are
+**scalable, reliable, and well-designed**. Coding has been my passion since I
+got my first computer at age 6, and I’ve been hooked ever since. When I’m not
+coding, I’m exploring the world - I’ve already been to **25 countries** and
+counting!
+
+Available for **backend** or **fullstack** positions. Reach out on [LinkedIn](https://www.linkedin.com/in/markmdev/)!
 
 ### My Projects
 
 The **last project** I finished is [Lingput](https://github.com/markmdev/lingput) - **Live Demo:** [https://lingput.dev/](https://lingput.dev/)  
-A web app that helps people learn a new language through AI-generated short stories with vocabulary tailored to the learner’s level. I enjoyed working on this project because I learned and strengthened many skills while working on it: such as **job queue management**, **dependency injection**, **caching**, **containerization**, and **clean architecture**. I also built a **CI/CD pipeline** to automate testing and deployment, which allowed me to iterate and ship updates quickly. The project is currently deployed, so you can try it out!
+A web app that helps people learn a new language through AI-generated short stories with vocabulary tailored to the learner’s level. I enjoyed working on this project because I learned and strengthened many skills while working on it: such as **job queue management**, **dependency injection**, **caching**, **containerization**, and **clean architecture**. I also built a **CI/CD pipeline** to automate testing and deployment, which allowed me to iterate and ship updates quickly. The project is currently deployed, so you can try it out! [https://lingput.dev/](https://lingput.dev/)
 
 ### My Tech Stack:
 
