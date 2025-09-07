@@ -111,9 +111,9 @@ This project demonstrates **end-to-end ownership** of complex technical challeng
   </tr>
 </table>
 
-🎯 **Specialized in:** API design, database optimization, caching strategies, scalability, concurrency, system design, job queues, containerization, and production deployments.
+🎯 **Core Expertise:** API design, database optimization, caching strategies, job queues, containerization, and production deployments — specializing in backend systems that scale under pressure.
 
-I have strong frontend skills with React/Next.js, but my **main passion** is **building robust backend systems** that scale. Currently expanding my stack with **Java** for backend-focused projects.
+I have strong frontend skills with React/Next.js, but my **main passion** is **building robust backend systems** that scale.
 
 ---
 
