@@ -1,40 +1,11 @@
 ### Hi, I'm Mark! 👋
 
-**Backend-focused Fullstack Developer** based in **San Jose, CA**, specializing in scalable Node.js applications and production system architecture.
-
-🚀 **Recent Achievements:**
-
-- **85% API response time reduction** (600ms → 85ms) through intelligent Redis caching strategies
-- Built **async job queue system** (BullMQ + Redis) for non-blocking 30s AI processing with real-time progress updates
-- **80% deployment time reduction** (25min → 5min) with automated CI/CD pipeline
-- Designed clean backend architecture with dependency injection for production scalability
-
-Currently deployed: **[Lingput.dev](https://lingput.dev)** - AI-powered language learning platform demonstrating production-grade system design, performance optimization, and DevOps practices.
-
-When I'm not building scalable systems, I'm exploring the world - I've been to **25 countries** and counting! 🌍
-
-**💼 Open to backend and full-stack developer roles** - let's connect on [LinkedIn](https://www.linkedin.com/in/markmdev/)!
-
----
+**Backend-focused Fullstack Developer** based in **San Jose, CA**
 
 ### 🚀 Featured Project
 
-**[Lingput - Production-Grade AI Language Learning Platform](https://github.com/markmdev/lingput)**  
-**Live Demo:** [https://lingput.dev/](https://lingput.dev/) | **API Docs:** [https://docs.lingput.dev/](https://docs.lingput.dev/)
-
-**The Challenge:** Generate personalized AI stories in 30+ seconds while maintaining responsive UX for concurrent users.
-
-**Technical Highlights:**
-
-- **Async Processing Pipeline:** BullMQ + Redis job queue system handling complex AI workflows (story generation → translation → audio synthesis)
-- **Performance Engineering:** Multi-layer Redis caching with 85% response time improvement
-- **Clean Architecture:** Express.js backend with dependency injection, layered architecture (Controller/Service/Repository)
-- **Production DevOps:** Containerized with Docker, automated CI/CD pipeline, zero-downtime deployments
-- **Advanced Frontend:** Next.js with custom React hooks for real-time job progress tracking
-
-**Tech Stack:** Node.js, Express.js, PostgreSQL, Prisma, Redis, BullMQ, Next.js, Docker, GitHub Actions
-
-This project demonstrates **end-to-end ownership** of complex technical challenges: from system architecture and performance optimization to production deployment and monitoring.
+Meridian: [Meridian - Zero Config Claude Code setup](https://github.com/markmdev/meridian)
+Meridian keeps Claude Code predictable without changing how you talk to it. You still chat normally while it preserves context, enforces rules, writes tasks, and supports optional TDD.
 
 ---
 
@@ -113,23 +84,10 @@ This project demonstrates **end-to-end ownership** of complex technical challeng
 
 🎯 **Core Expertise:** API design, database optimization, caching strategies, job queues, containerization, and production deployments — specializing in backend systems that scale under pressure.
 
-I have strong frontend skills with React/Next.js, but my **main passion** is **building robust backend systems** that scale.
-
----
-
-### ✍️ Technical Writing
-
-I share my learnings through technical articles:
-
-📖 **[My personal blog](https://markmdev.com/blog/)**
-
-More articles coming soon about system design challenges, performance optimization, and production deployment lessons learned from building Lingput!
-
 ---
 
 ### 📫 Let's Connect
 
-**Looking for backend or full-stack opportunities!**  
-📧 **LinkedIn:** [markmdev](https://www.linkedin.com/in/markmdev/)  
-🌐 **Portfolio:** [markmdev.com](https://markmdev.com/)  
-🚀 **Featured Project:** [lingput.dev](https://lingput.dev/)
+**LinkedIn:** [markmdev](https://www.linkedin.com/in/markmdev/)  
+**X:** [@markmdev](https://x.com/markmdev/)
+**Portfolio:** [markmdev.com](https://markmdev.com/)  
